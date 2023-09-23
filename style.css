@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: hsl(257, 40%, 49%);
+    background-size: cover;
+    color: white;
+    /* background: url('./images/bg-mobile.svg'); */
+}
+.illustration{
+    width: 280px;
+}
+.logo{
+    width: 120px;
+    text-align: left;
+}
+div{
+    width: 100%;
+    
+    background: url('./images/bg-mobile.svg');
+}
